@@ -1,0 +1,16 @@
+#project {
+  background-color: #b1b1b1;
+}
+.form-control:focus {
+    border-color: white;
+    box-shadow: 0 0 0 0.25rem #b1b1b1
+}
+.btn {
+    width: 100px;
+}
+.btn {
+    transform: translate();
+}
+section {
+  padding-top: 5rem;
+}
